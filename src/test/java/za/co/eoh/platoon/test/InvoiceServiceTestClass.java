@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package za.co.eoh.platoon.service.test;
+package za.co.eoh.platoon.test;
 
 import java.sql.Date;
 import org.junit.Test;
